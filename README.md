@@ -11,11 +11,9 @@ Build a timed code quiz with multiple-choice questions. This app will run in the
 
 
 ## User Story
-```
 AS A coding bootcamp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
-```
+I WANT to take a timed quiz on JavaScript fundamentals that stores high scores seems like good idea to practice.
+
 ## Installation 
 - Clone the GitHub repository
 - Right click the file index.html and select "open with live server"
